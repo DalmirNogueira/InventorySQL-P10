@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InventorySQL</string>
+
+    <string name="money">$ </string>
+    <string name="sale">sale</string>
+    <string name="unity"> un.</string>
+
+    <string name="name">name</string>
+    <string name="price">price</string>
+    <string name="quantity">quantity</string>
+    <string name="add_image">add image</string>
+    <string name="save_product">save product</string>
+
+    <string name="add_instructions">Click on the + button to add a product</string>
+
+    <string name="decrease">decrease quantity by</string>
+
+    <string name="error_field">One or more fields are blank</string>
+    <string name="error_field2">Quantity is already 0</string>
+
+    <string name="delete_message">Are you sure you want to delete?</string>
+</resources>
